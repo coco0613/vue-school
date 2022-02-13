@@ -1,13 +1,13 @@
 <template>
-  <router-view></router-view>
+公共侧边栏
 </template>
 
 <script>
-
 export default {
-  name: 'App',
+  name: "CommonAside"
 }
 </script>
 
-<style>
+<style scoped>
+
 </style>

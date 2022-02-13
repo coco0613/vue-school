@@ -1,13 +1,13 @@
 <template>
-  <router-view></router-view>
+首页
 </template>
 
 <script>
-
 export default {
-  name: 'App',
+  name: "MyHome"
 }
 </script>
 
-<style>
+<style scoped>
+
 </style>

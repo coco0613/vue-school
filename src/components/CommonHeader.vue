@@ -1,13 +1,13 @@
 <template>
-  <router-view></router-view>
+公共头部
 </template>
 
 <script>
-
 export default {
-  name: 'App',
+  name: "CommonHeader"
 }
 </script>
 
-<style>
+<style scoped>
+
 </style>
